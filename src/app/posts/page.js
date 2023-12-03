@@ -2,7 +2,7 @@ import React from 'react';
 
 const PostsComponent = async () => {
 
-    const res = await fetch('http://localhost:5000/post', { next: { revalidate: 5 } });
+    const res = await fetch('http://localhost:5000/post', {cache: 'no-store'});
     const data = await res.json();
     console.log(data);
 
