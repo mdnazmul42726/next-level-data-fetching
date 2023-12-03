@@ -1,0 +1,34 @@
+{
+    "post": [
+        {
+            "name": "Nature Bliss",
+            "description": "Immerse yourself in the tranquil beauty of nature with this collection of stunning landscapes. From majestic mountains to serene lakes, each image captures the essence of natural wonder.",
+            "like_count": 120
+        },
+        {
+            "name": "Tech Marvels",
+            "description": "Explore the cutting-edge world of technology with these innovative gadgets and advancements. From futuristic smartphones to AI-powered robots, witness the marvels shaping our digital future.",
+            "like_count": 98
+        },
+        {
+            "name": "Culinary Delights",
+            "description": "Indulge your senses in a gastronomic journey with this delectable assortment of culinary creations. From mouthwatering desserts to savory delights, savor the essence of fine dining.",
+            "like_count": 150
+        },
+        {
+            "name": "Urban Exploration",
+            "description": "Dive into the vibrant energy of city life with this collection showcasing urban landscapes and street scenes. From bustling markets to iconic landmarks, experience the heartbeat of the metropolis.",
+            "like_count": 87
+        },
+        {
+            "name": "Artistic Expressions",
+            "description": "Embark on a visual feast of creativity with this collection of diverse artistic expressions. From abstract masterpieces to thought-provoking sculptures, explore the world of visual arts.",
+            "like_count": 112
+        },
+        {
+            "name": "Adventurous Escapes",
+            "description": "Embark on thrilling adventures with this collection of escapades in breathtaking landscapes. From mountain summits to deep-sea dives, experience the adrenaline rush of daring exploration.",
+            "like_count": 135
+        }
+    ]
+}
